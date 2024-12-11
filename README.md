@@ -12,11 +12,10 @@
   
 </p>
 
-<br>
 
 ---
 
-<br>
+
 
 <h3 align="center"> This script finds Random Collision of Hashes according to the preferences of the User like:</h3>
 
@@ -29,15 +28,9 @@
   <p>Max number of collisions</p>
 </div>
 
-<br>
-
 ---
-
-<br>
     
 <h3 align="center">But also, searches for Collision Hashes based on a Specific String (e.g: "password123")</h3>
-
-<br>
 
 ---
 
