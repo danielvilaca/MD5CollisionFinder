@@ -50,7 +50,7 @@
 
 <br>
 
-<h1>Enjoy :)</h1>
+<h1 align="center">Enjoy :)</h1>
     
 <br>
 
