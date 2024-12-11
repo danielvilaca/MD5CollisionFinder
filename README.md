@@ -14,7 +14,7 @@
 
 <br>
 
-<p> This script finds random collision of hashes according to the preferences of the user like:</p>
+<p> This script finds Random Collision of Hashes according to the preferences of the User like:</p>
 
 <br>
 
@@ -25,19 +25,19 @@
 
 <br>
     
-<p>But also, searches for Collision Hashes based on a specific string (e.g: "password123")</p>
+<p>But also, searches for Collision Hashes based on a Specific String (e.g: "password123")</p>
 
 <br>
 
 <h1 align="center">Setup</h1>
 
-<h3>Install requirements.txt</h3>
+<h3>Installing Requirements.txt</h3>
 
     pip install -r requirements.txt
 
 <h1 align="center">Run</h1>
 
-<h3>To execute, make sure you have an updated Python 3 version:</h3>
+<h3>Executing, but make sure you have an updated Python 3 version:</h3>
 
     python Md5CollisionFinder.py
 
