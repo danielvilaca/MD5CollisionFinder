@@ -15,11 +15,9 @@
 
 ---
 
-
-
 <h3 align="center"> This script finds Random Collision of Hashes according to the preferences of the User like:</h3>
 
-<br>
+---
 
 <div align="center">
   <p>String length</p>
