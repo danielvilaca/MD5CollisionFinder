@@ -20,10 +20,10 @@
 ---
 
 <div align="center">
-  <p>String length</p>
-  <p>Hash length</p>
-  <p>Max RAM usage</p>
-  <p>Max number of collisions</p>
+  <p>String Length</p>
+  <p>Hash Length</p>
+  <p>Max RAM Usage</p>
+  <p>Max Number of Collisions</p>
 </div>
 
 ---
