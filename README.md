@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">A script for finding Collision MD5 Hashes working on Python 3.10</h3>
+<h3 align="center">A script for finding Collision MD5 Hashes working on Python 3.11</h3>
   
 ---
 
